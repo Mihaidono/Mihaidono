@@ -7,6 +7,7 @@ I like challenges and I enjoy solving programming problems and as of late a litt
   - App Development :iphone:
   - Artificial Intelligence :brain:	
   - Embedded Systems :mechanical_arm:	
+  
 Out of the programming zone, I also enjoy
     -> interacting with other people 
     -> playing team games as footbal or basketball with my friends :basketball_man:
