@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Mihaidono/Mihaidono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Andrei Mihai and I am currently a student as University of Transylvania Brasov, Computer Engineering.
+I like challenges and I enjoy solving programming problems and as of late a little bit of hardware problems too.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Favorite subjects would be:
+  - App Development
+  - Artificial Intelligence
+  - Embedded Systems.
+Out of the programming zone, I also enjoy
+    -> interacting with other people
+    -> playing team games as footbal or basketball with my friends
+    -> going to the gym and lifting heavy/ not so heavy things
+    -> Watching anime or playing games
