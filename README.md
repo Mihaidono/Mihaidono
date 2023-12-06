@@ -6,7 +6,8 @@ I like challenges and I enjoy solving programming problems and as of late a litt
 :telescope:Favorite subjects would be:
   - App Development :iphone:
   - Artificial Intelligence :brain:	
-  - Embedded Systems :mechanical_arm:	
+  - Embedded Systems :mechanical_arm:
+  - Image Processing :camera:
   
 Out of the programming zone, I also enjoy:
   - interacting with other people 
