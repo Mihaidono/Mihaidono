@@ -3,7 +3,7 @@
 My name is Andrei Mihai and I am currently a student as University of Transylvania Brasov, Computer Engineering.
 I like challenges and I enjoy solving programming problems and as of late a little bit of hardware problems too.
 
-:telescope: Favorite subjects would be:
+Favorite subjects would be:
   - App Development :iphone:
   - Artificial Intelligence :brain:	
   - Embedded Systems :mechanical_arm:
