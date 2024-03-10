@@ -4,7 +4,7 @@ My name is Andrei Mihai and I am currently a student as University of Transylvan
 I like challenges and I enjoy solving programming problems and as of late a little bit of hardware problems too.
 
 Favorite subjects would be:
-  - App Development :iphone:
+  - Web Development :globe_with_meridians:
   - Artificial Intelligence :brain:	
   - Embedded Systems :mechanical_arm:
   - Image Processing :camera:
